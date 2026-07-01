@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-hero.png" alt="Pedro Gomes — Tech Lead · Product Builder de IA" width="100%">
+</p>
+
 <h1 align="center">Pedro Gomes</h1>
 <p align="center"><strong>Tech Lead · Product Builder de IA</strong></p>
 <p align="center">
@@ -20,54 +24,77 @@
 
 - **R$ 4.000.000 economizados no primeiro mês** com um glosador de contas médicas (TISS) em produção — auditoria XML × prontuário com IA multimodal.
 - **API de validação de documentos médicos** (FastAPI multi-tenant, multi-LLM, Postgres+Docker) em produção.
-- **Agentes autônomos** com auto-validação (juiz LLM + auto-correção), orquestração multi-agente (Mesa de Reunião com CEO) e **squads de agentes no IDE** (opensquad).
+- **Agentes autônomos** com auto-validação (juiz LLM + auto-correção), orquestração multi-agente e **squads de agentes no IDE**.
 - **Harness de conteúdo**: do tema ao curso/publicação prontos, com juiz de visão e apostila "Liquid Glass".
 - **RAG e visão computacional**: pipelines de retrieval (ChromaDB/Ollama) e classificação de imagens médicas (Keras).
 
+---
+
 ### 🚀 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/PedroMMGomes/glosador-contas-medicas"><b>💰 glosador-contas-medicas</b></a><br>
-      <sub>Auditoria de contas TISS com IA — R$4Mi/mês. XML × prontuário.</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/PedroMMGomes/validacao-documentos-api"><b>🩺 validacao-documentos-api</b></a><br>
-      <sub>API FastAPI multi-tenant que valida laudos (Gemini/Bedrock/Ollama).</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PedroMMGomes/hermes-multiagent"><b>⚡ hermes-multiagent</b></a><br>
-      <sub>Chat agentico multi-agente em Streamlit (CEO delega, juiz valida).</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PedroMMGomes/agente-postagens-3"><b>📚 agente-postagens-3</b></a><br>
-      <sub>Cursos multi-formato + apostila Liquid Glass validada por juiz de visão.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PedroMMGomes/opensquad"><b>🤝 opensquad</b></a><br>
-      <sub>Framework de squads multi-agente no IDE + dashboard Vite/React.</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PedroMMGomes/atendente-whatsapp-llm"><b>🤖 atendente-whatsapp-llm</b></a><br>
-      <sub>Bot WhatsApp (Evolution API) com LLM + escalonamento humano. 20 testes.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PedroMMGomes/Chatoleos"><b>🛢️ Chatoleos</b></a><br>
-      <sub>Pipeline RAG (scraping → Ollama → ChromaDB) para Q&A de catálogo.</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PedroMMGomes/crawler4ai-playground"><b>🕸️ crawler4ai-playground</b></a><br>
-      <sub>Microsserviços FastAPI+Crawl4AI (search/scrape/map/crawl).</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/PedroMMGomes/glosador-contas-medicas">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/glosador-contas-medicas/main/readme-hero.png" alt="glosador-contas-medicas" width="100%">
+</a>
+
+**💰 [glosador-contas-medicas](https://github.com/PedroMMGomes/glosador-contas-medicas)** — Auditoria de contas TISS com IA. Economizou **R$ 4 Mi/mês** cruzando XML × prontuário.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/validacao-documentos-api">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/validacao-documentos-api/main/readme-hero.png" alt="validacao-documentos-api" width="100%">
+</a>
+
+**🩺 [validacao-documentos-api](https://github.com/PedroMMGomes/validacao-documentos-api)** — API FastAPI multi-tenant que valida laudos médicos (Gemini / Bedrock / Ollama) com Postgres + Docker.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/opensquad">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/opensquad/main/readme-hero.png" alt="opensquad" width="100%">
+</a>
+
+**🤝 [opensquad](https://github.com/PedroMMGomes/opensquad)** — Framework de squads multi-agente direto no IDE, com dashboard Vite/React, engine de skills e pipeline de execução.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/hermes-multiagent">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/hermes-multiagent/main/readme-hero.png" alt="hermes-multiagent" width="100%">
+</a>
+
+**⚡ [hermes-multiagent](https://github.com/PedroMMGomes/hermes-multiagent)** — Chat agentico multi-agente em Streamlit: um CEO delega, especialistas executam e um juiz valida.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/atendente-whatsapp-llm">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/atendente-whatsapp-llm/main/readme-hero.png" alt="atendente-whatsapp-llm" width="100%">
+</a>
+
+**🤖 [atendente-whatsapp-llm](https://github.com/PedroMMGomes/atendente-whatsapp-llm)** — Bot de WhatsApp (Evolution API) com LLM + escalonamento humano que leva o contexto da conversa. 20/20 testes.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/agente-postagens-3">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/agente-postagens-3/main/readme-hero.png" alt="agente-postagens-3" width="100%">
+</a>
+
+**📚 [agente-postagens-3](https://github.com/PedroMMGomes/agente-postagens-3)** — Harness de conteúdo: do tema ao curso/publicação, com apostila "Liquid Glass" validada por juiz de visão.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/Chatoleos">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/Chatoleos/main/readme-hero.png" alt="Chatoleos" width="100%">
+</a>
+
+**🛢️ [Chatoleos](https://github.com/PedroMMGomes/Chatoleos)** — Pipeline RAG (scraping → embeddings Ollama → ChromaDB) para Q&A sobre catálogo de produtos.
+
+<br>
+
+<a href="https://github.com/PedroMMGomes/crawler4ai-playground">
+  <img src="https://raw.githubusercontent.com/PedroMMGomes/crawler4ai-playground/main/readme-hero.png" alt="crawler4ai-playground" width="100%">
+</a>
+
+**🕸️ [crawler4ai-playground](https://github.com/PedroMMGomes/crawler4ai-playground)** — Microsserviços FastAPI + Crawl4AI (search · scrape · map · crawl) com front-end Vite.
+
+---
 
 ### 🛠️ Stack
 
@@ -82,4 +109,4 @@
 
 ---
 
-<sub>Construído com foco em engenharia ao redor do modelo — o harness é o produto, não a IA.</sub>
+<sub>Capa: OpenAI gpt-image-2. Construído com foco em engenharia ao redor do modelo — o harness é o produto, não a IA.</sub>
