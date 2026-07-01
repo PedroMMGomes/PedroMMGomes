@@ -20,8 +20,9 @@
 
 - **R$ 4.000.000 economizados no primeiro mês** com um glosador de contas médicas (TISS) em produção — auditoria XML × prontuário com IA multimodal.
 - **API de validação de documentos médicos** (FastAPI multi-tenant, multi-LLM, Postgres+Docker) em produção.
-- **Agentes autônomos** com auto-validação (juiz LLM + auto-correção) e orquestração multi-agente (Mesa de Reunião com CEO).
+- **Agentes autônomos** com auto-validação (juiz LLM + auto-correção), orquestração multi-agente (Mesa de Reunião com CEO) e **squads de agentes no IDE** (opensquad).
 - **Harness de conteúdo**: do tema ao curso/publicação prontos, com juiz de visão e apostila "Liquid Glass".
+- **RAG e visão computacional**: pipelines de retrieval (ChromaDB/Ollama) e classificação de imagens médicas (Keras).
 
 ### 🚀 Projetos em destaque
 
@@ -48,12 +49,22 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PedroMMGomes/crawler4ai-playground"><b>🕸️ crawler4ai-playground</b></a><br>
-      <sub>Microsserviços FastAPI+Crawl4AI (search/scrape/map/crawl).</sub>
+      <a href="https://github.com/PedroMMGomes/opensquad"><b>🤝 opensquad</b></a><br>
+      <sub>Framework de squads multi-agente no IDE + dashboard Vite/React.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/PedroMMGomes/pagina-evo"><b>💬 pagina-evo</b></a><br>
-      <sub>Dashboard + API: agente de IA no WhatsApp via Evolution API.</sub>
+      <a href="https://github.com/PedroMMGomes/atendente-whatsapp-llm"><b>🤖 atendente-whatsapp-llm</b></a><br>
+      <sub>Bot WhatsApp (Evolution API) com LLM + escalonamento humano. 20 testes.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PedroMMGomes/Chatoleos"><b>🛢️ Chatoleos</b></a><br>
+      <sub>Pipeline RAG (scraping → Ollama → ChromaDB) para Q&A de catálogo.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PedroMMGomes/crawler4ai-playground"><b>🕸️ crawler4ai-playground</b></a><br>
+      <sub>Microsserviços FastAPI+Crawl4AI (search/scrape/map/crawl).</sub>
     </td>
   </tr>
 </table>
