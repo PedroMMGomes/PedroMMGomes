@@ -103,9 +103,7 @@
 ### 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/-PedroMMGomes-181717?logo=github&style=flat-square)](https://github.com/PedroMMGomes)
-<!-- TODO: preencha abaixo -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:aratutec@gmail.com)
 
 ---
 
